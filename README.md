@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guram</h1>
 <h3 align="center">A passionate BackEnd developer from Georgia</h3>
 
-<img align="right" alt="coding" widht="400" height="600" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952k3p1rncrwb0i7mxi7fapvxcb4ds2wwv41126smyk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" widht="400"  src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952k3p1rncrwb0i7mxi7fapvxcb4ds2wwv41126smyk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurijajo&label=Profile%20views&color=0e75b6&style=flat" alt="gurijajo" /> </p>
 
