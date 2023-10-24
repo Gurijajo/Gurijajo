@@ -1,3 +1,4 @@
+![logo](https://github.com/Gurijajo/Gurijajo/blob/main/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Guram</h1>
 <h3 align="center">A passionate BackEnd developer from Georgia</h3>
 
