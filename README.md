@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurijajo&label=Profile%20views&color=0e75b6&style=flat" alt="gurijajo" /> </p>
 
-- 🌱 I’m currently learning **ASAP.Net, Angular , React**
+- 🌱 I’m currently learning **Angular , TypeScript , JavaScript **
 
 - 💬 Ask me about **PHP, MySQL**
 
