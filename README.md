@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jajanidzeguram@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1tk2p5pvm145MKv7L2gC0EorxicgBT5vY/view?usp=drive_link](https://drive.google.com/file/d/12B4sVmkINFTHMBq-HWHRGIbGCnL7D6lV/view?usp=sharing)]([https://drive.google.com/file/d/1tk2p5pvm145MKv7L2gC0EorxicgBT5vY/view?usp=drive_link](https://drive.google.com/file/d/12B4sVmkINFTHMBq-HWHRGIbGCnL7D6lV/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1tk2p5pvm145MKv7L2gC0EorxicgBT5vY/view?usp=drive_link](https://drive.google.com/file/d/12B4sVmkINFTHMBq-HWHRGIbGCnL7D6lV/view?usp=sharing)]
 
 - ⚡ Fun fact **Computer is Computer NOT KOMPUTER!**
 
